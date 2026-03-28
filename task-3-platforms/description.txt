@@ -1,1 +1,17 @@
 
+Task 3 - Coding & Collaboration Platforms
+
+Part A - Coding Practice:
+Platform: HackerRank
+Challenge: Solve Me First (Algorithms - Warmup)
+Result: Successfully solved - earned 1.00 point
+Language used: C++
+
+Part B - Google Workspace Collaboration:
+Tool: Google Forms
+Form Title: Digital Literacy Awareness Quiz
+Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeuTg1mPZakp-Pe1jl5IITY6i-mGSXgLpReq4ya9UsSGcRE-A/viewform
+Total Questions: 5
+- 3 Multiple Choice questions
+- 2 Short Answer questions
+- 2 Sections: Digital Literacy Basics & Collaboration Safety
