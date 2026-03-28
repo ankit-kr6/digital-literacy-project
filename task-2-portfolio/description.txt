@@ -1,1 +1,19 @@
+Task 2 - Student Digital Portfolio
 
+Platforms Set Up:
+
+1. GitHub (github.com/ankit-kr6)
+   - Profile README created with skills and tools
+   - 8 repositories including resume-analyzer project
+   - Languages: Python, CSS, HTML, MySQL
+
+2. LinkedIn (linkedin.com/in/ankit-kumar-mandal-78b66436b)
+   - CSE (AI & ML) Undergraduate at VIT Bhopal
+   - 98 connections
+   - Skills: Data Science, Machine Learning, Python
+
+3. Kaggle (kaggle.com/ankitkr6)
+   - Student at VIT Bhopal
+   - Joined and active on platform
+
+Screenshots of all 3 profiles are included in this folder.
